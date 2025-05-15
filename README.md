@@ -17,3 +17,7 @@ This project is a **responsive frontpage clone of Netflix**, built using **HTML 
 -  **CSS3** - for styling & responsiveness
 -  **Flexbox & Grid** - for layout management
 -  **Google Fonts & Icons** - for better aesthetics
+
+Output :
+
+![Image](https://github.com/user-attachments/assets/ede748fb-8468-476c-b2dc-758a175f2353)
