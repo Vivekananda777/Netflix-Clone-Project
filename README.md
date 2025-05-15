@@ -1,7 +1,5 @@
 # Netflix-Clone-Project
 
-# Netflix Frontpage Clone
-
 ## Overview
 This project is a **responsive frontpage clone of Netflix**, built using **HTML and CSS**. The goal is to replicate the visual design and layout of Netflix homepage while improving front-end development skills.
 
